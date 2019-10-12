@@ -6,3 +6,4 @@
 Aditya
 Nil
 undefined
+NaN
